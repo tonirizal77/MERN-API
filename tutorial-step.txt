@@ -1,0 +1,11 @@
+// Create Server Express
+//*1 install express
+//*2 install nodemon (make realTime Server Running)
+//*3 setting script "start":"nodemon index.js" 
+//   di package.json
+
+// Save to Github Repo name : MERN-API
+// cara agar node_modules tidak disimpan ke repository
+// - buat file .gitignore, lalu
+// - isikan apa saja yang tidak dimasukkan (per-baris)
+// - contoh : node_modules, package-lock.json
